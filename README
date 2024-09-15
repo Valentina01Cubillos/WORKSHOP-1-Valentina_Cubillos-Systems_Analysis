@@ -1,7 +1,24 @@
-# Systems-Analysis
-Laura Valentina Cubillos Acero
-## Entropy and Motif Analysis in Genetic Sequences
-###Workshops
-This repository contains all the documentation, files and code to be tested about Workshop #1 on genetic sequences.
+# Systems Analysis
 
-It is available for anyone to view and access.
+### Laura Valentina Cubillos Acero
+
+## Entropy and Motif Analysis in Genetic Sequences - Workshop #1
+
+This repository contains all the documentation, files, and code related to **Workshop #1** on the analysis of genetic sequences, focusing on entropy and motif detection.
+
+### Overview
+In this project, we explore the generation of artificial genetic sequences, search for the most frequent motifs, and apply Shannon entropy to filter out repetitive sequences. The project implements a "divide and conquer" approach to efficiently handle the tasks.
+
+### Contents
+- Full documentation of Workshop #1.
+- Source code for generating sequences, searching for motifs, and entropy filtering.
+- Output files including generated sequences and filtered results.
+
+### Access and Use
+This repository is publicly available for anyone to view and access. Feel free to explore the files and run the code for your own testing or analysis.
+
+---
+
+For any inquiries or feedback, please contact:  
+**Laura Valentina Cubillos Acero**  
+Email: [YourEmail@example.com]
