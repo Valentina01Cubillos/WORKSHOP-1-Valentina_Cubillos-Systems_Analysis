@@ -10,7 +10,7 @@ The key components of this project are:
 
 ## Table of Contents
 
-2. [Usage](#usage)
+1. [Usage](#usage)
 3. [Project Structure](#project-structure)
 4. [Results](#results)
 5. [References](#references)
