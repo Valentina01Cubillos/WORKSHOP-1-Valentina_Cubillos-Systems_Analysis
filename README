@@ -2,12 +2,11 @@
 
 ### Laura Valentina Cubillos Acero
 
-## Entropy and Motif Analysis in Genetic Sequences - Workshop #1
 
-This repository contains all the documentation, files, and code related to **Workshop #1** on the analysis of genetic sequences, focusing on entropy and motif detection.
+This repository contains all the workshops in the course
 
 ### Overview
-In this project, we explore the generation of artificial genetic sequences, search for the most frequent motifs, and apply Shannon entropy to filter out repetitive sequences. The project implements a "divide and conquer" approach to efficiently handle the tasks.
+For example on the workshop 1 , we explore the generation of artificial genetic sequences, search for the most frequent motifs, and apply Shannon entropy to filter out repetitive sequences. The project implements a "divide and conquer" approach to efficiently handle the tasks.
 
 ### Contents
 - Full documentation of Workshop #1.
